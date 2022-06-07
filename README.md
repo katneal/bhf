@@ -15,8 +15,10 @@ Collect 10 counts of the shield Carrick.
 Fight Tunnel on Nightmare difficulty.
 Collect 10 counts of Tunnel Arm.
 This equipment has good drop rates and receives a match bonus.
+
 Approach 2:
 Fight Yip for Protoshield on Nightmare difficulty.
 Fight Sip for Prototype00 on Nightmare difficulty.
+
 Approach 3:
 Get lucky with rarer drops (or collect Bounty Stars and enter the cave).
