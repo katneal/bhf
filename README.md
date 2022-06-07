@@ -1,4 +1,7 @@
 # bhf
+Found a bug?
+
+Email me at natkatneal@gmail.com.
 
 Too difficult?
 
