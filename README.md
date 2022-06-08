@@ -25,3 +25,8 @@ Fight Sip for Prototype00 on Nightmare difficulty.
 
 Approach 3:
 Get lucky with rarer drops (or collect Bounty Stars and enter the cave).
+
+---
+Privacy Policy
+Meets Apple requirements.
+I personally collect no user data, but this app contains ads and IAPs.
