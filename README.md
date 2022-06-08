@@ -28,4 +28,4 @@ Get lucky with rarer drops (or collect Bounty Stars and enter the cave).
 
 ---
 Privacy Policy:
-I personally collect no user data, but this app contains Google ads and Apple IAPs.
+I collect no user data, but this app contains ads via Google and IAPs via Apple.  Google and Apple may collect your data.  Google Analytics collects ad clickthrough data, etc.
