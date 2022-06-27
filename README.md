@@ -1,4 +1,4 @@
-# bhf
+# Bounty Hunter Forest
 
 Too difficult?
 
@@ -69,7 +69,10 @@ when player is hit and not shielding, HP lost = enemy.ATK / player.DEF
 
 when player blocks a hit, EVA lost = enemy.ATK / player.DEF
 
-if player blocks but enemy.ATK / player.DEF > EVA then HP lost = enemy.ATK / player.DEF - EVA
+if player blocks but enemy.ATK / player.DEF > player.EVA then HP lost = enemy.ATK / player.DEF - player.EVA
+
+
+score = winCount*10 + lossCount + totalRareLootCount*200 + uniqueRareLootCount*800
 
 ---
 Found a bug?
