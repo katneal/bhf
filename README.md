@@ -15,7 +15,7 @@ Player is invincibility when blue; player is constantly blue when playing really
 
 Stuck on first level?
 
-Make sure to equip the new weapons and shields when found.
+Pick up the colorful boxes and equip new weapons and shields.
 To equip gear:
 Press menu button (three horizontal bars).
 Press INV button.
