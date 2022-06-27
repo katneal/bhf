@@ -11,9 +11,10 @@ Press menu button (three horizontal bars).
 Press TSS button.
 Review tutorial. 
 Master blocking; it's too good, providing 2 s of invincibility.
-Player is invincibility when blue; player is constantly blue when playing at a high level.
+Player is invincibility when blue; player is constantly blue when playing really well.
 
 Stuck on first level?
+
 Make sure to equip the new weapons and shields when found.
 To equip gear:
 Press menu button (three horizontal bars).
