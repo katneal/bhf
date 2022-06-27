@@ -1,10 +1,5 @@
 # bhf
----
-Found a bug?
 
-Email me at natkatneal@gmail.com.
-
----
 Too difficult?
 
 Press menu button (three horizontal bars).
@@ -41,26 +36,45 @@ Get lucky with rarer drops (or collect Bounty Stars and enter the cave).
 
 ---
 Definitions
+
 ATK = attack
+
 DUR = duration = number of frames of attack animation + follow through (game is 60 FPS)
+
 DEF = defense
+
 EVA = evasion = the blue bar
+
 HP = health points = the red bar
+
 INV = inventory
+
 MON = monster
+
 TSS = tutorial, settings, stats
 
 ---
 Calculations
+
 player.ATK = weapon.baseAtk * (1+rarity*(weapon.stack-1)/9) * bonusMultiplier * atkDrinkBoost * rankBoost
+
 player.DEF = shield.baseDef * (1+rarity*(shield.stack-1)/9) * bonusMultiplier * defDrinkBoost * rankBoost
+
 player.EVA = shield.baseEva
+
 
 enemies receive damage equal to player.ATK
  
 when player is hit and not shielding, HP lost = enemy.ATK / player.DEF
+
 when player blocks a hit, EVA lost = enemy.ATK / player.DEF
+
 if player blocks but enemy.ATK / player.DEF > EVA then HP lost = enemy.ATK / player.DEF - EVA
+
+---
+Found a bug?
+
+Email me at natkatneal@gmail.com.
 
 ---
 Privacy Policy:
