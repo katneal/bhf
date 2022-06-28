@@ -1,13 +1,5 @@
 # Bounty Hunter Forest
 
-Too difficult?
-
-Press menu button (three horizontal bars).
-Press TSS button.
-Review tutorial. 
-Master blocking; it's too good, providing 2 s of invincibility.
-Player is invincibility when blue; player is constantly blue when playing really well.
-
 Stuck on first level?
 
 Pick up the colorful boxes and equip new weapons and shields.
@@ -17,6 +9,14 @@ Press INV button.
 Tap arrows in red and blue fields.
 Tap and then equip weapon with highest ATK.
 Tap and then equip shield with highest DEF.
+
+Still too difficult?
+
+Press menu button (three horizontal bars).
+Press TSS button.
+Review tutorial. 
+Master blocking; it's too good, providing 2 s of invincibility.
+Player is invincibility when blue; player is constantly blue when playing really well.
 
 Stuck in nightmare difficulty / cannot beat final level?
 
@@ -72,7 +72,7 @@ when player blocks a hit, EVA lost = enemy.ATK / player.DEF
 if player blocks but enemy.ATK / player.DEF > player.EVA then HP lost = enemy.ATK / player.DEF - player.EVA
 
 
-score = winCount*10 + lossCount + totalRareLootCount*200 + uniqueRareLootCount*800
+score = winCount * 10 + lossCount + totalRareLootCount * 200 + uniqueRareLootCount * 800
 
 ---
 Found a bug?
