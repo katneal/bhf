@@ -71,6 +71,7 @@ when player blocks a hit, EVA lost = enemy.ATK / player.DEF
 
 if player blocks but enemy.ATK / player.DEF > player.EVA then HP lost = enemy.ATK / player.DEF - player.EVA
 
+use the above calculations alongside enemy stats, which are found via menu > MON, to determine how difficult upcoming battles will be.
 
 score = winCount * 10 + lossCount + totalRareLootCount * 200 + uniqueRareLootCount * 800
 
